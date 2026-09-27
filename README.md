@@ -44,4 +44,4 @@ The main purpose of this repository is to:
 
 ## Note
 
-T
+This repository is a work in progress and will be updated as I learn new CSS concepts.
