@@ -10,37 +10,37 @@ I am adding examples here as I learn different CSS concepts and styling techniqu
 
 ## Topics Covered
 
-Currently, the repository includes basic concepts such as:
+Currently, I have practiced:
 
-* Adding CSS to HTML
-* Inline CSS
-* Internal CSS
-* External CSS
-* CSS Selectors
-* Colors
-* Text Styling
-* Fonts
-* Borders
-* Border Radius
-* Padding
-* Basic Box Styling
+- Inline CSS
+- Internal CSS
+- External CSS
+- CSS Selectors
+  - Universal Selector
+  - Element Selector
+  - ID Selector
+  - Class Selector
+- Colors
+- Background Color
+- Text Alignment
+- Text Decoration
+- Font Weight
+- Font Family
+- Borders
+- Border Radius
+- Width and Height
+- Padding
 
 More topics will be added as I continue learning CSS.
-
-## Files
-
-The examples are kept simple so that the concepts are easy to understand and practice.
-
-Each HTML file is connected to its respective CSS file where required.
 
 ## Purpose
 
 The main purpose of this repository is to:
 
-* Practice CSS basics
-* Keep track of my learning
-* Build a collection of simple CSS examples
-* Help beginners understand basic CSS styling
+- Practice CSS basics
+- Keep track of my learning
+- Store simple CSS examples
+- Understand how CSS is used to style HTML
 
 ## Note
 
