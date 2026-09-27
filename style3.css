@@ -1,0 +1,22 @@
+div {
+    width:200px;
+    height: 500px;
+    background-color:black; 
+    color:white;
+    border-width:2px;
+    border-style:dotted;
+    border-color:pink;
+    text-align: center; /* iski wajah se jo width, height set kari hai uske center me jayega, na ki page ke center me*/
+    border-radius:25%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:25px;
+    /* iska shorthand is padding: top right bottom left (clockwise direction me hai)*/
+}
+/* itna jo code likha hai, uski jagah agar shorthand code likhna hai to aise likh skte hai - border: widhts style color; */
+h1{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding:50px;
+
+}

@@ -1,0 +1,24 @@
+/* (asterisk[*{}] se universally select hojata hai, matlab puri file ke liye)
+*{
+    color:pink
+}
+    */
+h1{
+    color:red;
+}
+p{
+    color:blue;
+}
+button{
+    color:greenyellow;
+    background-color:black;
+}
+body{
+    background-color:#ffff00;
+}  
+#headingOne{
+    color:blue
+}
+.class1{
+    color:darkgoldenrod
+}

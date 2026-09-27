@@ -1,0 +1,19 @@
+p{
+    text-align: center;
+}
+h1{
+    text-align: right;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h2{
+    text-align: left;
+    text-decoration:line-through;
+    font-weight: lighter;
+}
+a{
+    text-decoration: none;
+}
+#para2{
+    font-family:arial;
+}
