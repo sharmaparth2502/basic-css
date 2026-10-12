@@ -1,0 +1,21 @@
+div{
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block;
+}
+#box1{
+    background-color:pink;
+    visibility:hidden; /* isse box1 page me hoga, lekin dikhai nahi dega */
+}
+#box2{
+    background-color:blue;
+    display:none;
+}
+#box3{
+    background-color:green;
+}
+#opacity{
+   color:rgba(26, 2, 92, 0.5); /* isse jo content h (text), woh half transparent dikhega */
+}
