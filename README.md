@@ -20,16 +20,19 @@ Currently, I have practiced:
   - Element Selector
   - ID Selector
   - Class Selector
-- Colors
-- Background Color
+- Colors and Background Colors
 - Text Alignment
 - Text Decoration
 - Font Weight
 - Font Family
-- Borders
-- Border Radius
+- Borders and Border Radius
 - Width and Height
-- Padding
+- Margin and Padding
+- Display Property
+  - Inline-block
+  - None
+- Visibility Property
+- RGBA Colors and Transparency
 
 More topics will be added as I continue learning CSS.
 
