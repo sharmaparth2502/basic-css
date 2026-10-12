@@ -36,6 +36,17 @@ Currently, I have practiced:
 
 More topics will be added as I continue learning CSS.
 
+## CSS Practice Questions
+
+This section contains practice questions and my HTML/CSS solutions, organized into separate practice sets.
+
+- **Practice Set 1:** Divs, headings, buttons, and CSS styling
+- **Practice Set 2:** Text alignment, fonts, and nested divs
+- **Practice Set 3:** Borders, border radius, and navbar styling
+- **Practice Set 4:** Page layout, borders, colors, and opacity
+
+Each practice set includes a Markdown file containing the questions and the corresponding HTML and CSS files.
+
 ## Purpose
 
 The main purpose of this repository is to:
