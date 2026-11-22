@@ -1,8 +1,6 @@
-# basic-css
-My CSS learning journey — basic styling concepts, selectors, text styling, borders, padding, and more.
-<br>
+# Basic CSS
 
-# CSS Basics
+My CSS learning journey — basic styling concepts, selectors, text styling, borders, padding, and more.
 
 This repository contains my CSS learning and practice files.
 
@@ -33,6 +31,19 @@ Currently, I have practiced:
   - None
 - Visibility Property
 - RGBA Colors and Transparency
+- CSS Units
+  - Pixels (px)
+  - Percentage (%)
+  - em and rem
+  - Viewport Units (vh and vw)
+- CSS Position Property
+  - Static
+  - Relative
+  - Absolute
+  - Fixed
+  - Sticky
+- CSS Flexbox
+  - Display Flex
 
 More topics will be added as I continue learning CSS.
 
