@@ -1,0 +1,59 @@
+/* body ko thodi height di hai scrolling ke liye */
+body{
+    min-height:1500px;
+}
+
+/* static default position hoti hai */
+.static{
+    position:static;
+    background-color:lightblue;
+    padding:10px;
+}
+
+/* relative apni original position se move hota hai */
+.relative{
+    position:relative;
+    left:30px;
+    top:10px;
+    background-color:lightgreen;
+    padding:10px;
+}
+
+/* parent ko relative rakha hai */
+.parent{
+    position:relative;
+    width:300px;
+    height:150px;
+    background-color:lightgray;
+    margin-top:20px;
+}
+
+/* absolute nearest positioned parent ke according set hota hai */
+.absolute{
+    position:absolute;
+    top:20px;
+    right:10px;
+    background-color:orange;
+    padding:10px;
+}
+
+/* fixed screen par ek hi jagah rehta hai */
+.fixed{
+    position:fixed;
+    top:10px;
+    right:10px;
+    background-color:lightpink;
+    padding:10px;
+}
+
+/* sticky scroll karte time top par ruk jata hai */
+.sticky{
+    position:sticky;
+    top:0;
+    background-color:yellow;
+    padding:10px;
+}
+
+.space{
+    height:800px;
+}
