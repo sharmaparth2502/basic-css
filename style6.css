@@ -1,0 +1,43 @@
+/* default font size */
+body{
+    font-size:16px;
+}
+
+/* parent ki width 400px */
+.parent{
+    width:400px;
+    background-color:lightgray;
+}
+
+/* 50% parent ki width lega */
+.child{
+    width:50%;
+    background-color:lightblue;
+}
+
+/* parent ka font size 20px */
+.em-parent{
+    font-size:20px;
+}
+
+/* 2em = 40px */
+.em-text{
+    font-size:2em;
+}
+
+/* 2rem = 32px */
+.rem-text{
+    font-size:2rem;
+}
+
+/* 50vh screen ki height ka 50% hai */
+.height-box{
+    height:50vh;
+    background-color:lightgreen;
+}
+
+/* 50vw screen ki width ka 50% hai */
+.width-box{
+    width:50vw;
+    background-color:lightpink;
+}
