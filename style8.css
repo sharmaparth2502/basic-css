@@ -1,0 +1,16 @@
+/* flex container ki styling */
+.container{
+    display:flex;
+    background-color:lightgray;
+    padding:10px;
+}
+
+/* flex items ki styling */
+.box{
+    width:100px;
+    height:100px;
+    background-color:skyblue;
+    margin:10px;
+    text-align:center;
+    line-height:100px;
+}
