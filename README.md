@@ -44,6 +44,17 @@ Currently, I have practiced:
   - Sticky
 - CSS Flexbox
   - Display Flex
+  - Flex Direction
+  - Justify Content
+  - Align Items
+  - Gap
+- CSS Grid
+  - Display Grid
+  - Grid Template Columns
+  - Gap
+- CSS Media Queries
+  - Max Width
+  - Responsive Layouts
 
 More topics will be added as I continue learning CSS.
 
