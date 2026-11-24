@@ -66,6 +66,10 @@ This section contains practice questions and my HTML/CSS solutions, organized in
 - **Practice Set 2:** Text alignment, fonts, and nested divs
 - **Practice Set 3:** Borders, border radius, and navbar styling
 - **Practice Set 4:** Page layout, borders, colors, and opacity
+- **Practice Set 5:** Background images, positioning, and z-index
+- **Practice Set 6:** Flexbox navbar and centering elements
+- **Practice Set 7:** Media queries and responsive background colors
+- **Practice Set 8:** CSS loader and animations
 
 Each practice set includes a Markdown file containing the questions and the corresponding HTML and CSS files.
 
