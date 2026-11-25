@@ -1,0 +1,20 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    border: 2px solid black;
+    position: relative;
+    animation-name: move;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes move {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 200px;
+    }
+}
