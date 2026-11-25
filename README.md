@@ -1,14 +1,10 @@
 # Basic CSS
 
-My CSS learning journey — basic styling concepts, selectors, text styling, borders, padding, and more.
-
-This repository contains my CSS learning and practice files.
-
-I am adding examples here as I learn different CSS concepts and styling techniques. The repository will be updated gradually as I learn more.
+This repository contains my CSS examples and practice files covering basic styling concepts, selectors, layouts, responsive design, transitions, transforms, and animations.
 
 ## Topics Covered
 
-Currently, I have practiced:
+The following CSS concepts are covered in this repository:
 
 - Inline CSS
 - Internal CSS
@@ -55,12 +51,25 @@ Currently, I have practiced:
 - CSS Media Queries
   - Max Width
   - Responsive Layouts
-
-More topics will be added as I continue learning CSS.
+- CSS Transitions
+  - Transition Property
+  - Transition Duration
+  - Transition Timing Function
+  - Transition Delay
+- CSS Transform
+  - Rotate
+  - Scale
+  - Translate
+  - Skew
+- CSS Animations
+  - Animation Name
+  - Animation Duration
+  - Animation Iteration Count
+  - Keyframes
 
 ## CSS Practice Questions
 
-This section contains practice questions and my HTML/CSS solutions, organized into separate practice sets.
+This section contains practice questions and their HTML/CSS solutions, organized into separate practice sets.
 
 - **Practice Set 1:** Divs, headings, buttons, and CSS styling
 - **Practice Set 2:** Text alignment, fonts, and nested divs
@@ -78,10 +87,10 @@ Each practice set includes a Markdown file containing the questions and the corr
 The main purpose of this repository is to:
 
 - Practice CSS basics
-- Keep track of my learning
+- Keep CSS examples organized
 - Store simple CSS examples
 - Understand how CSS is used to style HTML
 
-## Note
+## Author
 
-This repository is a work in progress and will be updated as I learn new CSS concepts.
+Parth Sharma
