@@ -1,0 +1,31 @@
+/* Question 1 - Navbar */
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: black;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Question 2 - Center a Div */
+
+.outer {
+    height: 300px;
+    width: 300px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+}
